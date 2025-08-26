@@ -23,6 +23,14 @@ Deploy one audited contract to Sepolia and document the process
 
 Integrate a Safe multi‑sig with a simple dApp
 
+## 📝 NFT Contract (Optional)
+
+- Contract: `MyNFT.sol`  
+- Description: A simple ERC721 NFT contract with `mintNFT` function. Only the contract owner can mint.  
+- Usage: Deploy to Sepolia, then call `mintNFT(tokenURI)` to create new tokens.
+
+Disponível em: https://sepolia.etherscan.io/address/0x45c43C2f0799D48D40DD7efF68673aC1F2E02c63.
+
 📫 Contact
 
 Email: damaresgaia@gmail.com
